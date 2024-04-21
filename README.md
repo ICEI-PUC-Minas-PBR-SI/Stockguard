@@ -6,7 +6,7 @@ Trabalho Interdisciplinar
 
 1 Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto visa desenvolver um sistema de controle de estoque para vencimento de produtos em um supermercado local. Este sistema será fundamental para evitar perdas devido à expiração de produtos e garantir a qualidade dos itens oferecidos aos clientes. 
 
 ## Integrantes
 
@@ -28,7 +28,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
@@ -49,4 +49,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="src/commit/648dc696468029b817c36021d463c877c3011bbc"> Apresentação</a></li>
+
