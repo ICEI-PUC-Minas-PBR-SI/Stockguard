@@ -10,7 +10,7 @@ O projeto visa desenvolver um sistema de controle de estoque para vencimento de 
 
 ## Integrantes
 
-•	Pablo Vinícius Lázaro da Silva: Product Owner 
+•	Pablo Vinícius Lázaro da Silva: Product Owner <br>
 •	Lucas Gabriel Araujo Lima: Desenvolvedora Front-end 
 •	Gustavo de Lacerda Gaspar: Desenvolvedor Back-end 
 •	Pedro Arthur José Vieira: Desenvolvedor Back-end 
