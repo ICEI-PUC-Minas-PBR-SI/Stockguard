@@ -31,7 +31,7 @@ git status  <br>
  # Documentação
 
 <ol>
-<a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
+<li><a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
 </ol>
 
 # Design Thinking
