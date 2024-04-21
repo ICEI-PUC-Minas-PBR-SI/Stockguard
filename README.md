@@ -28,17 +28,17 @@ git clone https://github.com/nome-do-usuario/nome-do-repositorio.git  <br>
 Verificar o Status do Repositório:  <br>
 git status  <br>
 
- #  Documentação
+ # Documentação
 
 <ol>
 <a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
 </ol>
 
-# Código
+# Design Thinking
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/Design Thinking StockGuard.pdf"> Design Thinking</a></li>
 
 # Apresentação
 
-<li><a href="Apresentação do Projeto StockGuard PDF.pptx"> Apresentação</a></li>
+<li><a href="src/Apresentação do Projeto StockGuard PDF.pptx"> Apresentação</a></li>
 
