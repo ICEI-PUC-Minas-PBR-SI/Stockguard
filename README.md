@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+StockGuard
 
-`CURSO`
+Sistemas de Informação
 
-`DISCIPLINA`
+Trabalho Interdisciplinar
 
-`SEMESTRE`
+1 Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+•	Pablo Vinícius Lázaro da Silva: Product Owner 
+•	Lucas Gabriel Araujo Lima: Desenvolvedora Front-end 
+•	Gustavo de Lacerda Gaspar: Desenvolvedor Back-end 
+•	Pedro Arthur José Vieira: Desenvolvedor Back-end 
+•	Gabriel Gomes Ferreira Aranda Lima.: Desenvolvedor Back-end 
+•	Pedro Henrique Lopes Silva: Scrum Master 
 
-## Orientador
+Orientador
 
-* Nome completo do professor 1
+• Wesley Dias Maciel
 
 ## Instruções de utilização
 
