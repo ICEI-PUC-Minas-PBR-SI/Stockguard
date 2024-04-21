@@ -1,4 +1,4 @@
-StockGuard
+# StockGuard
 
 Sistemas de Informação
 
@@ -28,10 +28,10 @@ git clone https://github.com/nome-do-usuario/nome-do-repositorio.git  <br>
 Verificar o Status do Repositório:  <br>
 git status  <br>
 
- Documentação
+ #  Documentação
 
 <ol>
-<li><a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
+<a href="Documentação do Projeto StockGuard.pdf"> Documentação </a></li>
 </ol>
 
 # Código
