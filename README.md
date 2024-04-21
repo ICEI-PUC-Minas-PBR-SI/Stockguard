@@ -49,5 +49,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-<li><a href="src/commit/648dc696468029b817c36021d463c877c3011bbc"> Apresentação</a></li>
+<li><a href="Apresentação do Projeto StockGuard.pptx"> Apresentação</a></li>
 
